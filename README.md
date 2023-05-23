@@ -29,7 +29,7 @@ Hypothesis #1:  <br/>
 <img src="https://imgur.com/otjjbl6.png" height="80%" width="80%" alt="Statistical Analysis Steps"/>
 <br />
 <br />
-Statistical Testing (Pearson correlation coefficient & Scatterplots):  <br/>
+Statistical Testing (Pearson correlation coefficient & scatterplots):  <br/>
 <img src="https://imgur.com/XFFveJE.png" height="80%" width="80%" alt="Statistical Analysis Steps"/>
 <br />
 <br />
