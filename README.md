@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project involves analyzing economic indicators that drive happiness index scores in order to inform economist and policy makers on where they should allocate resources to improve overall well-being. It involved importing the Happiness Index 2019 CSV file into a jupyter notebook and performing a statistical analysis using Python. Research questions were defined and hypotheses were developed. Statistical tests, such as t-tests and Pearson correlation coefficient tests, were conducted to test hypotheses related to the impact of certain economic indicators on happiness index scores. 
+The objective of this project is to analyze the economic indicators that influence happiness index scores, providing valuable insights for economists and policymakers to allocate resources towards enhancing overall well-being. The project involved importing the Happiness Index 2019 CSV file into a Jupyter notebook and performing a statistical analysis using Python. Research questions were formulated, and corresponding hypotheses were developed. Statistical tests, including t-tests and Pearson correlation coefficient tests, were conducted to examine the relationships between specific economic indicators and happiness index scores. 
 
 
 <h2>Tools Used</h2>
